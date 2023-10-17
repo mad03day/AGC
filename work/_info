@@ -1,0 +1,171 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MRem/Documents/Proj/FPGA/AGC
+vAccumulator
+Z1 !s110 1697432306
+!i10b 1
+!s100 oKhaPC1Kfac;dX4<moj]b0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQYCA>gkR9TWmzYX`ZREGg0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1697432239
+8Accumulator.v
+FAccumulator.v
+!i122 0
+L0 1 33
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1697432306.000000
+!s107 testbench.v|Integrator.v|Float_emm.v|Err_gen.v|Accumulator.v|Env_Approx.v|AGC.v|
+Z6 !s90 -reportprogress|300|AGC.v|Env_Approx.v|Accumulator.v|Err_gen.v|Float_emm.v|Integrator.v|testbench.v|
+!i113 1
+Z7 tCvgOpt 0
+n@accumulator
+vAGC
+R1
+!i10b 1
+!s100 INTN0:b7eL=7CAcbLPjLi1
+R2
+IPoZnnHe<[A4c^8DP6JECa3
+R3
+R0
+w1697431605
+8AGC.v
+FAGC.v
+!i122 0
+L0 1 29
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 testbench.v|Integrator.v|Float_emm.v|Err_gen.v|Accumulator.v|Env_Approx.v|AGC.v|
+R6
+!i113 1
+R7
+n@a@g@c
+vEnv_Approx
+R1
+!i10b 1
+!s100 ^fS_f3m:kG9XB;zgCAAU@0
+R2
+IAI^XEP3L>QUR<[GWBOzG?2
+R3
+R0
+w1697432169
+8Env_Approx.v
+FEnv_Approx.v
+!i122 0
+L0 1 49
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+n@env_@approx
+vErr_gen
+R1
+!i10b 1
+!s100 VXaC5;E5g;735z84L]5La2
+R2
+I;IPnjb0Uh<:DR320IXD>Z2
+R3
+R0
+w1697407750
+8Err_gen.v
+FErr_gen.v
+!i122 0
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+n@err_gen
+vFloat_emm
+R1
+!i10b 1
+!s100 4242Jj?9G[0D;aX`>LZd03
+R2
+IBkIV>K_e0?DEP0G1S17Q?1
+R3
+R0
+w1697408330
+8Float_emm.v
+FFloat_emm.v
+!i122 0
+L0 1 22
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+n@float_emm
+vIntegrator
+R1
+!i10b 1
+!s100 CDKQbf0=[@`:BnNZliMeS3
+R2
+I9X8OKCk9Uk2NWPlTZz6cg3
+R3
+R0
+w1697431954
+8Integrator.v
+FIntegrator.v
+!i122 0
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+n@integrator
+vtestbench
+R1
+!i10b 1
+!s100 TWRj?FYl5YOe?APm5Q;m61
+R2
+I?mgOIW>?OXZTgzT<Z>]kJ0
+R3
+R0
+w1697432010
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 2 47
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
